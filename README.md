@@ -1,5 +1,5 @@
 # 👋 Hi, I am [Kushwanth Reddy](https://www.kushwanthreddy.com)
-<p align="center"><img src="https://raw.githubusercontent.com/codekushi/codekushi/master/kushi.svg" alt="name"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/codekushi/codekushi/master/cover.png" alt="name"/></p>
 
 - 🔭 I’m currently working on React
 - :heart: I have a passion for web development and penetration testing
