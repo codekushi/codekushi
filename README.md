@@ -1,4 +1,4 @@
-# 👋 Hi, I am [Kushwanth Reddy](https://kushwanthreddy.codes)
+# 👋 Hi, I am [Kushwanth Reddy](https://www.kushwanthreddy.com)
 <p align="center"><img src="https://raw.githubusercontent.com/codekushi/codekushi/master/kushi.svg" alt="name"/></p>
 
 - 🔭 I’m currently working on React
