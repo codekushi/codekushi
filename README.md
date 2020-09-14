@@ -1,5 +1,5 @@
 # 👋 Hi, I am [Kushwanth Reddy](https://www.kushwanthreddy.com)
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/learnkushwanth/learnkushwanth/master/cover.png" alt="name"/></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/kushwanth/kushwanth/master/cover.png" alt="name"/></p>
 
 - 🔭 I’m currently working on React
 - :heart: I have a passion for web development and penetration testing
